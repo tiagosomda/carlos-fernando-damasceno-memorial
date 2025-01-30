@@ -9,5 +9,5 @@ header_menu: true
 ### 1957
 Born in Romaria, Minas Gerais, Brasil
 
-### 2008
+### 2006
 Moved to the United States of America
