@@ -1,8 +1,8 @@
 ---
 weight: 6
-title: "Serviço"
-header_menu_title: "Serviço"
-navigation_menu_title: "Serviço"
+title: "Encontro Memorial"
+header_menu_title: "Encontro Memorial"
+navigation_menu_title: "Encontro Memorial"
 header_menu: true
 draft: false
 ---

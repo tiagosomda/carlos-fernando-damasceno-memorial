@@ -1,13 +1,13 @@
 ---
 weight: 6
-title: "Service"
-header_menu_title: "Service"
-navigation_menu_title: "Service"
+title: "Memorial Gathering"
+header_menu_title: "Memorial Gathering"
+navigation_menu_title: "Memorial Gathering"
 header_menu: true
 draft: false
 ---
 
-A memorial service will be held in the afternoon of February 23rd.  
+A memorial gathering will be held in the afternoon of February 23rd.  
 
 ###### In Person
 If you can, we would like for you to come in person.  
