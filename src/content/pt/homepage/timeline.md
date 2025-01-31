@@ -4,6 +4,7 @@ header_menu_title: "Cronologia"
 navigation_menu_title: "Cronologia"
 weight: 4
 header_menu: true
+draft: true
 ---
 
 ### 1957

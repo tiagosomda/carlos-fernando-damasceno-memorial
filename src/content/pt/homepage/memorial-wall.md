@@ -1,7 +1,17 @@
 ---
-title: "Memorial Wall"
 weight: 100
-header_menu: false
+title: "Mural Memorial"
+header_menu_title: "Mural Memorial"
+navigation_menu_title: "Mural Memorial"
+header_menu: true
+draft: false
 ---
 
-If you have any stories or words that you would like to share, please feel free to do so:
+A família também recebe com carinho histórias, fotos e vídeos celebrando a vida de Carlos, que podem ser enviados para:  
+- **memories@fernandodamasceno.com**
+
+
+
+
+
+
