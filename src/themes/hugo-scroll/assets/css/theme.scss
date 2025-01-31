@@ -73,7 +73,7 @@ body {
   #site-languages .btn-lang {
     text-decoration: none;
     background-color: var(--highlight);
-    color: var(--highlight-contrast);
+    color: var(--button-text-color);
     border-radius: 5px;
     -webkit-border-radius: 5px;
     display: inline-block;
@@ -98,7 +98,7 @@ body {
   a.btn {
     text-decoration: none;
     background-color: var(--highlight);
-    color: var(--highlight-contrast);
+    color: var(--button-text-color);
     border-radius: 6px;
     -webkit-border-radius: 6px;
     display: inline-block;
