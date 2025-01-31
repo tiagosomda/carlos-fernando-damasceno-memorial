@@ -9,10 +9,9 @@ draft: false
 Uma cerimônia em memória será realizada na tarde do dia 23 de fevereiro.  
 
 ###### Em Pessoa
-
 Se possível, gostaríamos muito que você comparecesse pessoalmente.  
-Por favor, confirme sua presença aqui: [RSVP](https://rsvp-memorial.fernandodamasceno.com)  
-
+Por favor, confirme sua presença aqui:  
+- https://rsvp-memorial.fernandodamasceno.com  
 
 ###### Online Streaming
 Para aqueles que não puderem comparecer,  
