@@ -17,6 +17,9 @@ title = "Carlos Fernando Damasceno"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
+# Output folder
+publishDir = "../docs"
+
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
 
