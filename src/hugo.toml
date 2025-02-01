@@ -120,3 +120,6 @@ publishDir = "../docs"
     contentDir = "content/en"
 
 
+[services]
+  [services.disqus]
+    shortname = 'fernandodamasceno.com'
