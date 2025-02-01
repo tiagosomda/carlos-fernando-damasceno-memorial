@@ -4,6 +4,7 @@ title: "Mural Memorial"
 header_menu_title: "Mural Memorial"
 navigation_menu_title: "Mural Memorial"
 header_menu: true
+comments: true
 draft: false
 ---
 
