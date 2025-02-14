@@ -111,7 +111,7 @@ publishDir = "../docs"
 [languages]
   [languages.pt]
     weight = 5
-    languageName = "Portugues"
+    languageName = "Português"
     contentDir = "content/pt"
 
   [languages.en]
