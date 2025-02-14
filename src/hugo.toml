@@ -44,7 +44,7 @@ publishDir = "../docs"
     title = "Carlos Fernando Damasceno"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "A Virtual Memorial"
 
     # Show a menu of languages available
     language_menu = true

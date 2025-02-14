@@ -10,7 +10,7 @@ header_logo: "images/rv-logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Carlos Fernando Damasceno"
-header_subheadline: "um exemplo de como viver a <b>vida</b>"
+header_subheadline: "um exemplo de como viver uma <b>vida boa</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
