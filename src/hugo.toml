@@ -110,7 +110,7 @@ publishDir = "../docs"
 # Define additional languages
 [languages]
   [languages.pt]
-    weight = 10
+    weight = 5
     languageName = "Portugues"
     contentDir = "content/pt"
 
