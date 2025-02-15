@@ -1,8 +1,8 @@
 ---
 weight: 100
-title: "Mural Memorial"
-header_menu_title: "Mural Memorial"
-navigation_menu_title: "Mural Memorial"
+title: "Mural Virtual"
+header_menu_title: "Mural Virtual"
+navigation_menu_title: "Mural Virtual"
 header_menu: true
 comments: true
 draft: false

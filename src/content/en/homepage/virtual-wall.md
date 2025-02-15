@@ -1,8 +1,8 @@
 ---
 weight: 100
-title: "Memorial Wall"
-header_menu_title: "Memorial Wall"
-navigation_menu_title: "Memorial Wall"
+title: "Virtual Wall"
+header_menu_title: "Virtual Wall"
+navigation_menu_title: "Virtual Wall"
 comments: true
 header_menu: true
 draft: false

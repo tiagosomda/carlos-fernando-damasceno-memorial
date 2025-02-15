@@ -7,7 +7,14 @@ header_menu: true
 draft: true
 ---
 
-### Things he loved
-Studying Science & Technology  
-Decorating
-Traveling
+</br>
+
+{{%expand "Estudar Ciência e Tecnologia"%}}
+- [Jim Al-Khalili : Quantum Physics : The Laws That Govern Our Universe](https://youtu.be/K5Po5R-1rgY)
+{{% /expand%}}
+
+</br>
+
+{{%expand "Viajar"%}}
+- [Top 10 Best National Parks in the USA](https://morethanjustparks.com/best-national-parks-usa/)
+{{% /expand%}}
