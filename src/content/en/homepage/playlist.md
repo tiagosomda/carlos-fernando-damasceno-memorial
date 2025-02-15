@@ -2,7 +2,7 @@
 title: "Playlist"
 header_menu_title: "Playlist"
 navigation_menu_title: "Playlist"
-weight: 6
+weight: 60
 header_menu: true
 draft: true
 ---

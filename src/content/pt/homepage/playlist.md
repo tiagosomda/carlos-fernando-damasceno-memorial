@@ -2,7 +2,7 @@
 title: "Lista de Musica"
 header_menu_title: "Lista de Musica"
 navigation_menu_title: "Lista de Musica"
-weight: 6
+weight: 60
 header_menu: true
 draft: true
 ---

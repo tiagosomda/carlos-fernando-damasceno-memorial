@@ -2,7 +2,7 @@
 title: "Memories"
 header_menu_title: "Memories"
 navigation_menu_title: "Memories"
-weight: 3
+weight: 70
 header_menu: true
 draft: true
 ---
