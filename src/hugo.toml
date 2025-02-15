@@ -6,7 +6,7 @@ disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 defaultContentLanguage = "pt"
 
 # The name of this wonderful theme ;-).
-theme = "hugo-scroll"
+theme = ["hugo-scroll", "hugo-shortcode-gallery"]
 
 # The browser tab name
 title = "Carlos Fernando Damasceno"
