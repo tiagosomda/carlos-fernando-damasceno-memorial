@@ -9,6 +9,5 @@ draft: false
 ---
 
 The family also welcomes stories, photos, and videos celebrating Carlos’s life.
+- you can share it at the comment section below
 - otherwise, you may send it to us at: **memories@fernandodamasceno.com**  
-
-(you can comment as a guest, no need to login)

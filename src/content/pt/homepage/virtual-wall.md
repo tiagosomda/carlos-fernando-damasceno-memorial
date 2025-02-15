@@ -8,7 +8,6 @@ comments: true
 draft: false
 ---
 
-A família também recebe com carinho histórias, fotos e vídeos celebrando a vida de Carlos na seção de comentários abaixo.  
-- você tambem pode enviar pelo e-mail: **memories@fernandodamasceno.com**  
-
-(não é necessário fazer login)
+A família também recebe com carinho histórias, fotos e vídeos celebrando a vida de Carlos.
+- você pode compartilhar na seção de comentários abaixo.  
+- e/ou você tambem pode enviar pelo e-mail: **memories@fernandodamasceno.com**  
