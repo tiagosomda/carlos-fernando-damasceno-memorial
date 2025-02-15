@@ -4,7 +4,7 @@ header_menu_title: "Memories"
 navigation_menu_title: "Memories"
 weight: 70
 header_menu: true
-draft: true
+draft: false
 ---
 
 {{<gallery

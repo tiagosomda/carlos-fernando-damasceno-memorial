@@ -7,9 +7,10 @@ header_menu: true
 draft: true
 ---
 
-He loved using this app/website to listen to radio stations around the world:  
-- https://radio.garden/
+Ele usava isso com muita frequência para ouvir estações de rádio ao redor do mundo:  
+- [Radio Garden](https://radio.garden/)
 
-Here is a playlist of songs he liked:
-- Spotify
-- Youtube
+###### Músicas Favoritas  
+[Playlist no Spotify](https://open.spotify.com/embed/playlist/5bwiHuJ94CMO4UTRdbyTdu)
+
+{{< spotify type="playlist" id="5bwiHuJ94CMO4UTRdbyTdu" >}}
