@@ -1,8 +1,8 @@
 ---
 weight: 100
-title: "Virtual Wall"
-header_menu_title: "Virtual Wall"
-navigation_menu_title: "Virtual Wall"
+title: "Share Memories"
+header_menu_title: "Share Memories"
+navigation_menu_title: "Share Memories"
 comments: true
 header_menu: true
 draft: false

@@ -1,8 +1,8 @@
 ---
 weight: 100
-title: "Mural Virtual"
-header_menu_title: "Mural Virtual"
-navigation_menu_title: "Mural Virtual"
+title: "Compartilhe Memórias"
+header_menu_title: "Compartilhe Memórias"
+navigation_menu_title: "Compartilhe Memórias"
 header_menu: true
 comments: true
 draft: false
