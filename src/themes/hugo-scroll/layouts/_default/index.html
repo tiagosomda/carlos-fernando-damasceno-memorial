@@ -11,7 +11,7 @@
   {{ $image_options := $.Site.Params.image_options | default "webp q90 lanczos photo" -}}
   <style>
   /* Default cover for larger screens, converted to webp */
-  {{- with $img.Resize ( printf "%dx%d %s" $img.Width $img.Height $image_options ) -}}
+  {{- with $img.Resize ( printf "%dx%d left %s" $img.Width $img.Height $image_options ) -}}
   #site-head.withCenteredImage {
     background-image: url('{{- .RelPermalink -}}');
   }
@@ -22,7 +22,7 @@
   We set __both__ max-width and max-height to make sure the image is never upscaled.
   */
   {{ range $width := slice 1920 1600 1366 }}
-    {{- with $img.Resize ( printf "%dx %s" $width $image_options ) }}
+    {{- with $img.Resize ( printf "%dx left %s" $width $image_options ) }}
     @media (max-width: {{- .Width -}}px) and (max-height: {{- .Height -}}px) {
       #site-head.withCenteredImage { background-image: url('{{- .RelPermalink -}}'); }
     }
@@ -38,8 +38,8 @@
   */
   {{- $img_temp := $img.Resize "x1024 q100" -}}/* high quality temporary image, to be cropped later */
   {{ range $width := slice 900 600 360 }}
-    {{- with $img_temp.Crop ( printf "%dx1024 center %s" $width $image_options ) }}
-    @media (max-height: {{- .Height -}}px) and (max-aspect-ratio: {{ .Width }} / {{ .Height }}) {
+    {{- with $img_temp.Crop ( printf "%dx1024 left %s" $width $image_options ) }}
+    @media (max-height: {{- .Height -}}px) and (max-aspect-ratio: {{ .Width  }} / {{ .Height }}) {
       #site-head.withCenteredImage { background-image: url('{{- .RelPermalink -}}'); }
     }
     {{- end }}
