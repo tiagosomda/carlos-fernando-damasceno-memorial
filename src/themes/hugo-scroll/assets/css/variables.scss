@@ -2,6 +2,7 @@
 
     /* === Cover / Landing area === */
     --cover-text-color: #1d5a7d;
+    --cover-description-text-color: #1d5a7d;
     --button-text-color: #ffffff;
 
     /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
@@ -15,7 +16,6 @@
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
     --cover-title-text-shadow: white 0px 0px 7px;
-
 
     /* === sticky top/left navigation menus === */
     --sticky-menu-text-color: #3a4145;
