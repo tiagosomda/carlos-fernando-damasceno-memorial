@@ -1,0 +1,1 @@
+hugo build ; git add ..\docs\* ; git commit -m "publish website" ; git push
