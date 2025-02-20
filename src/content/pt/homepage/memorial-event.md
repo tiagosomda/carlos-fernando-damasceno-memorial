@@ -1,19 +1,19 @@
 ---
 weight: 6
-title: "Encontro Memorial"
-header_menu_title: "Encontro Memorial"
-navigation_menu_title: "Encontro Memorial"
+title: "Memorial Online"
+header_menu_title: "Memorial Online"
+navigation_menu_title: "Memorial Online"
 header_menu: true
 draft: false
 ---
-Uma cerimônia em memória será realizada na tarde do dia 23 de fevereiro.  
+Um serviço memorial será realizado no dia 23 de fevereiro, começando às 14h45 (UTC-5)
+- 16h45 (Horário de Brasília, UTC-3)
+
+###### Transmissão Online
+Para aqueles que não puderem comparecer pessoalmente,  
+faremos a transmissão do serviço.  
+- Volte aqui no dia 23 de fevereiro para obter o link da transmissão.
 
 ###### Em Pessoa
-Se possível, gostaríamos muito que você comparecesse pessoalmente.  
-Por favor, confirme sua presença aqui:  
-- https://rsvp-memorial.fernandodamasceno.com  
-
-###### Online Streaming
-Para aqueles que não puderem comparecer,  
-faremos uma transmissão ao vivo da cerimônia.  
-- Por favor, volte aqui para acessar o link da transmissão.  
+Se puder, junte-se a nós no <b>Sancar Turkish Cultural and Community Center</b>  
+- 1609 E Franklin St, Chapel Hill, NC 27514  

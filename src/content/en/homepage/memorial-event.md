@@ -1,20 +1,19 @@
 ---
 weight: 6
-title: "Memorial Gathering"
-header_menu_title: "Memorial Gathering"
-navigation_menu_title: "Memorial Gathering"
+title: "Online Memorial"
+header_menu_title: "Online Memorial"
+navigation_menu_title: "Online Memorial"
 header_menu: true
 draft: false
 ---
 
-A memorial gathering will be held in the afternoon of February 23rd.  
-
-###### In Person
-If you can, we would like for you to come in person.  
-Please RSVP here:   
-- https://rsvp-memorial.fernandodamasceno.com
+A memorial service will be held on February 23rd starting at 2:45pm UTC-5
 
 ###### Online Streaming
-For those who can not attend,  
+For those who can not attend in person,  
 we will be streaming the service.  
-- Please check back here for a link to watch the streaming.
+- Please check back here on February 23rd for a link to watch the streaming.
+
+###### In Person
+If you can, meet us at the <b>Sancar Turkish Cultural and Community Center</b>  
+- 1609 E Franklin St, Chapel Hill, NC 27514  
