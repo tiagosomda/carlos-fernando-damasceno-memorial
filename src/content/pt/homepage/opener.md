@@ -1,9 +1,18 @@
 ---
-title: "Em Memória Amorosa"
+title: "Transmissão ao vivo"
 weight: 1
 ---
+
+{{< youtube ttyM8biKlmw >}}  
+Se a transmissão a cima não funcionar, tente acessar  
+- [https://celebracao-de-vida.fernandodamasceno.com](https://celebracao-de-vida.fernandodamasceno.com)  
+
+---
+
+## Em Memória Amorosa
 ## de Carlos Fernando Damasceno
-23 de junho de 1957 ~ 23 de janeiro de 2025  
+
+23 de junho de 1957 ~ 23 de janeiro de 2025
 
 Carlos Fernando Damasceno, um marido, pai, avô e amigo dedicado, faleceu pacificamente no dia 23 de janeiro de 2025. Ele viveu uma vida marcada pela generosidade, pelo serviço ao próximo e por um compromisso inabalável de tornar o mundo um lugar melhor.  
 

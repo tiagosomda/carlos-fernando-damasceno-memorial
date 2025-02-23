@@ -1,7 +1,15 @@
 ---
-title: "In Loving Memory"
+title: "Live Broadcast"
 weight: 1
 ---
+
+  
+{{< youtube ttyM8biKlmw >}}  
+if the video above does not work, try going to  
+- [https://life-celebration.fernandodamasceno.com](https://life-celebration.fernandodamasceno.com)  
+
+---
+## In Loving Memory
 ## of Carlos Fernando Damasceno
 June 23, 1957 ~ January 23, 2025
 
