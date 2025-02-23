@@ -4,7 +4,7 @@ weight: 1
 ---
 
 {{< youtube ttyM8biKlmw >}}  
-Se a transmissão a cima não funcionar, tente acessar  
+Se a transmissão acima não funcionar, tente acessar  
 - [https://celebracao-de-vida.fernandodamasceno.com](https://celebracao-de-vida.fernandodamasceno.com)  
 
 ---
