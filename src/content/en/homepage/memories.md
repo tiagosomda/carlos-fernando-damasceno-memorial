@@ -9,7 +9,7 @@ draft: false
 
 </br>  
 
-<b>A Well Life Lived</b>    
+<b>A Life Well Lived</b>    
 a tribute to Fernando's life showing his family and some of his friends  
 
 {{<youtube mDm9rO3FOY8>}}
