@@ -1,0 +1,10 @@
+{{ $translations := .Site.Home.AllTranslations }}
+<!-- Hidden Language Selector Section -->
+<div id="hidden-language-selector" style="display: none;">
+    {{ range $translations }}
+        {{ if ne .Lang "home" }}
+            {{ $lang_title := or .Language.LanguageName (.Lang | strings.ToUpper) }}
+            <a class='btn-lang' href='{{ .RelPermalink }}'>{{ $lang_title }}</a>
+        {{ end }}
+    {{ end }}
+</div>

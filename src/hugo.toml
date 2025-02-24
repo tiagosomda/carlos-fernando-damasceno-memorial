@@ -3,7 +3,7 @@ baseURL = "https://example.com"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
 
-defaultContentLanguage = "pt"
+defaultContentLanguage = "home"
 
 # The name of this wonderful theme ;-).
 theme = ["hugo-scroll", "hugo-shortcode-gallery"]
@@ -109,6 +109,12 @@ publishDir = "../docs"
 
 # Define additional languages
 [languages]
+  [languages.home]
+    weight = 5
+    languageName = "Home"
+    contentDir = "content/home"
+    hideMenu = true
+
   [languages.pt]
     weight = 5
     languageName = "Português"
