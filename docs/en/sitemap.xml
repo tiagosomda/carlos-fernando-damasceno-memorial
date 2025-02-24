@@ -5,8 +5,13 @@
     <loc>https://example.com/en/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
+                hreflang="home"
                 href="https://example.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://example.com/pt/"
                 />
     <xhtml:link
                 rel="alternate"

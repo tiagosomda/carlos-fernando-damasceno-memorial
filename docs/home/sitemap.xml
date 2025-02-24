@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/pt/</loc>
+    <loc>https://example.com/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="home"
-                href="https://example.com/"
+                hreflang="pt"
+                href="https://example.com/pt/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -15,8 +15,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="pt"
-                href="https://example.com/pt/"
+                hreflang="home"
+                href="https://example.com/"
                 />
   </url>
 </urlset>
