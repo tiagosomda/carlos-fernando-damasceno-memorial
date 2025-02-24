@@ -11,6 +11,6 @@ He used this very frequently to listen to radio stations around the world:
 - [Radio Garden](https://radio.garden/)
 
 ###### Favorite Songs  
-[Spotify Playlist](https://open.spotify.com/embed/playlist/5bwiHuJ94CMO4UTRdbyTdu)
+[Spotify Playlist](https://open.spotify.com/embed/playlist/4VnQhdodQaIaIpimZt9RGo)
 
-{{< spotify type="playlist" id="5bwiHuJ94CMO4UTRdbyTdu" >}}
+{{< spotify type="playlist" id="4VnQhdodQaIaIpimZt9RGo" >}}

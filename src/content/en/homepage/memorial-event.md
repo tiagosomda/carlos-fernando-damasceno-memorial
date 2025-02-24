@@ -1,22 +1,13 @@
 ---
 weight: 6
-title: "Online Memorial"
-header_menu_title: "Online Memorial"
-navigation_menu_title: "Online Memorial"
+title: "Celebration of Life"
+header_menu_title: "Celebration of Life"
+navigation_menu_title: "Celebration of Life"
 header_menu: true
 draft: false
 ---
 
-A memorial service will be held on  
-February 23rd starting at 2:45pm UTC-5
+On February 23rd, Fernando's family and friends held a celebration to honor his life and share stories.  
 
-###### Online Streaming
-For those who can not attend in person,  
-we will be streaming the service: 
-
+The live streaming was recorded and can be viewed here:  
 {{< youtube ttyM8biKlmw >}}  
-  
-.    
-###### In Person
-If you can, meet us at the <b>Sancar Turkish Cultural and Community Center</b>  
-- 1609 E Franklin St, Chapel Hill, NC 27514  

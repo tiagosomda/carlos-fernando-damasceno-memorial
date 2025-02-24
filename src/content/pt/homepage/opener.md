@@ -1,15 +1,7 @@
 ---
-title: "Transmissão ao vivo"
+title: "Em Memória Amorosa"
 weight: 1
 ---
-
-{{< youtube ttyM8biKlmw >}}  
-Se a transmissão acima não funcionar, tente acessar  
-- [https://celebracao-de-vida.fernandodamasceno.com](https://celebracao-de-vida.fernandodamasceno.com)  
-
----
-
-## Em Memória Amorosa
 ## de Carlos Fernando Damasceno
 
 23 de junho de 1957 ~ 23 de janeiro de 2025
